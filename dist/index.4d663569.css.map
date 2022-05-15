@@ -1,1 +1,1 @@
-{"mappings":"","sources":["src/styles.css"],"sourcesContent":[null],"names":[],"version":3,"file":"index.4d663569.css.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA;AACA;AACA;AACA","sources":["src/styles.css"],"sourcesContent":["h1 {\n  border: 15px solid blue;\n  color: green;\n}"],"names":[],"version":3,"file":"index.4d663569.css.map","sourceRoot":"/__parcel_source_root/"}
